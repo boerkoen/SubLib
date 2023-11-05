@@ -3,6 +3,6 @@
     public class Hive
     {
         public bool GivemeaBool ()
-        {  return false; }
+        {  return true; }
     }
 }
